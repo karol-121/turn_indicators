@@ -1,4 +1,4 @@
-# Turn Indicators
+# Arduino turn indicators
 Arduino based turn indicators for use in driving simulators such as Euro Truck Simulator 2 and American Truck Simulator. This program converts joysticks movements into key presses and mimic keyboard in OS.
 
 ## Description
