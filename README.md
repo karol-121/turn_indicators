@@ -14,18 +14,18 @@ Necessary componets:
 [Circuit diagram](circuit.svg)<img src="circuit.svg">
 
 ## Default keybinds
-left paddle up - "]"
-left paddle down - "["
-left paddle forward - "j"
-left paddle backward - "k"
-left paddle twist forward - "o"
-left paddle twist backward - "l"
-right paddle up - "p"
-right paddle down - "i"
-right paddle forward - "b"
-right paddle backward - " "
-right paddle twist forward - ","
-right paddle twist backward - "."
+- left paddle up - "]"
+- left paddle down - "["
+- left paddle forward - "j"
+- left paddle backward - "k"
+- left paddle twist forward - "o"
+- left paddle twist backward - "l"
+- right paddle up - "p"
+- right paddle down - "i"
+- right paddle forward - "b"
+- right paddle backward - " "
+- right paddle twist forward - ","
+- right paddle twist backward - "."
 
 
 ## Notes
