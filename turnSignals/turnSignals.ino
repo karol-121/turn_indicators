@@ -1,15 +1,15 @@
 #include <Keyboard.h>
 
-//left encoder pin assigment
+//left rotary encoder pin assigment
 int leftClkPin = 3;
 int leftDtPin = 5;
-int leftSwPin;
+int leftSwPin; //pin for switch located in rotary encoder
 int leftPinLast;
 
 //right rotary encoder pin assigment
 int rightClkPin = 2;
 int rightDtPin = 4;
-int rightSwPin;
+int rightSwPin; //pin for switch located in rotary encoder
 int rightPinLast;
 
 //left joystick pin assigment
