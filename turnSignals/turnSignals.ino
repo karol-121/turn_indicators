@@ -111,7 +111,7 @@ void registerClick(int axisIn, char buttonA, char buttonB) {
       //register click
       Keyboard.press(buttonB);
     
-  } else if (axisIn > 100 && axisIn < 923) {
+  } else {
     
     Keyboard.release(buttonA);
     Keyboard.release(buttonB);
